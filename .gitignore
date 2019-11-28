@@ -1,0 +1,11 @@
+# Build results
+[Bb]inaries/
+[Ii]ntermediates/
+
+# Visual Studio cache/options directory
+.vs/
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
